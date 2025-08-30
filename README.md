@@ -1,2 +1,2 @@
-# ganesha
+# gitdemo
 first day at github
